@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-print("Teste")
-
 <!--
 **Glenin-KB1/Glenin-KB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
