@@ -1,5 +1,5 @@
 
-<div style="background-color:white;"
+<div style="background-color:white;">
 ### Você por aqui!?🦀
 
 Amante de <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
